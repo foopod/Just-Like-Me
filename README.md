@@ -1,6 +1,6 @@
 # Just Like Me
 
-This is an empathy exercise I found online that I loved so much I wanted to rehost it so the link never died.
+This is an empathy exercise I found online that I loved so much I wanted to rehost it so the link never died. Move this to a gist Jono (can't reach gist.github.com from work).
 
 “Realizing that the other person is also just like me is the basis on which you can develop compassion, not only towards those around you but also towards your enemy. Normally, when we think about our enemy, we think about harming him. Instead, try to remember that the enemy is also a human being, just like me.” --HHDL
 
